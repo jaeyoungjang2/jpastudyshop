@@ -10,7 +10,7 @@ public class JpastudyshopApplication {
 		Hello hello = new Hello();
 		hello.setData("hello");
 		String data = hello.getData();
-		System.out.println("data = " + data);
+//		System.out.println("data = " + data);
 
 		SpringApplication.run(JpastudyshopApplication.class, args);
 
